@@ -44,6 +44,7 @@ marche pas.
 #define _GPPMODULE_H
 
 #include <new>
+#include <cstddef>
 
 namespace GotoPP
 {

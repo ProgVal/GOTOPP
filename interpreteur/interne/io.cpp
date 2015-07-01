@@ -231,7 +231,7 @@ GOTOPRINTDUTEXTE() ; «Erreur en ouvrant le fichier»
 		{
 			wchar_t temp[11];
 			fgetws(temp,10,F);
-			i=_wtoi(temp);
+			i=wcstol(temp, NULL, 10);
 		}
 	#endif
 		return i;
