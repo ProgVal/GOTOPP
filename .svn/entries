@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="17"
+   name=""
+   committed-date="2006-01-03T22:55:08.706908Z"
+   url="http://localhost/svn/gotopp/tags/0.30"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="1"
+   name="LICENCE.txt"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="d368405f1c604912f51ba286eed9944a"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   name="exemples"
+   kind="dir"/>
+<entry
+   name="include"
+   kind="dir"/>
+<entry
+   name="boehmgc"
+   kind="dir"/>
+<entry
+   name="doc"
+   kind="dir"/>
+<entry
+   name="src"
+   kind="dir"/>
+<entry
+   name="interpreteur"
+   kind="dir"/>
+<entry
+   name="modules"
+   kind="dir"/>
+<entry
+   name="vs"
+   kind="dir"/>
+<entry
+   name="ressources"
+   kind="dir"/>
+<entry
+   committed-rev="10"
+   name="CMakeLists.txt"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-01T22:08:30.754195Z"
+   checksum="694439f1f53bb59316358d47d01394ff"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="LISEZMOI.html"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="445c52712acf1fb7d4bea7e7dfcebc0c"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+</wc-entries>

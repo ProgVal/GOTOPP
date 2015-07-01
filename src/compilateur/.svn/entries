@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16"
+   name=""
+   committed-date="2006-01-03T22:54:03.353209Z"
+   url="http://localhost/svn/gotopp/tags/0.30/src/compilateur"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="16"
+   name="compilateur.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="88ab1cb33ac869282ef1b595b561d4d9"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="8"
+   name="compriv.h"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="9bdbdd1e1e0cccd168ed635d3eef06fd"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="7"
+   name="compilateur2.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="50198855761e3130e29e750ab64e1ba0"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="6"
+   name="instrconstr.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="f9b0af2a9bcaf4a802399aedb792d253"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="16"
+   name="optimiser.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="b592d0dbda2130599c23b8b08d9d0257"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="7"
+   name="instrconstr.h"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="cef65bb5832fa6b8332ae8caeb9d1ec7"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+</wc-entries>

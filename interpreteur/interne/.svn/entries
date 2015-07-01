@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16"
+   name=""
+   committed-date="2006-01-03T22:54:03.353209Z"
+   url="http://localhost/svn/gotopp/tags/0.30/interpreteur/interne"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="16"
+   name="defbib.h"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="26efe009b92ae992e65298e25db8ac25"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="16"
+   name="console.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="be6e4ac522abe3054168a2bf7806390d"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="16"
+   name="hasard.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="95c2c6f259976ba157f8747dd7f09d7d"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="16"
+   name="tableaux.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="19accb24781086c725a3c655dc6ca29e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="16"
+   name="io.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="88e586379b9fa1fb718a24b43a3cecd3"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="16"
+   name="systeme.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="f8c657adb75148527ef7399948f3538e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="16"
+   name="chaines.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="eae52db1ebb05753c6bf24c9db7d83cf"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="16"
+   name="divers.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="962fff1abbeaf2ceeaf7fe5f6f9dbff5"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="16"
+   name="maths.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="0ab31ec8c8578e1119a3ba5d1e1221ea"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2005-11-18T20:15:37.112083Z"
+   url="http://localhost/svn/gotopp/tags/0.30/modules/hachetml"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="1"
+   name="hachetml.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="3b2d0cbd30dfb2df98b7491341571979"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="mkhachetml"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="a0994e6251b89fe1017968f7d831acac"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+</wc-entries>

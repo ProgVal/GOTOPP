@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16"
+   name=""
+   committed-date="2006-01-03T22:54:03.353209Z"
+   url="http://localhost/svn/gotopp/tags/0.30/exemples/outils"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="15"
+   name="monProxy.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-02T18:23:28.253412Z"
+   checksum="fb0bec5e46b718ef6cbd90a4b7fb52be"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="telnet.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="191a19e90fb9c9431027176f8296c790"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="15"
+   name="sendmail.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-02T18:23:28.253412Z"
+   checksum="9644f1c50e99e855aa31a288158ad30a"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="cal.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="c1632a233a1e15d0c20db28325609f28"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="16"
+   name="adresse.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="7c5fd44cb5688702a338a2a8ec49a63d"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="adresse.dat"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="138cdd409baca63c333029761d4b2c5c"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="15"
+   name="ftp.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-02T18:23:28.253412Z"
+   checksum="94a3a2e7073123731ab303515655dc23"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+</wc-entries>

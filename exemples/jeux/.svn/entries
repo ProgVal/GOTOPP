@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16"
+   name=""
+   committed-date="2006-01-03T22:54:03.353209Z"
+   url="http://localhost/svn/gotopp/tags/0.30/exemples/jeux"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="16"
+   name="devineunnombre.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="ea57a8a2ea861f427d897a8d9a83ed1e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="snake.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="82f4b24566b7f40ea55b85be360a1ed8"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="nombre.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="0d9dc0290a53a4bc975e1e0d9321e3ab"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="aventure.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="7788e4711b8fab6f4deee86c720205b4"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+</wc-entries>

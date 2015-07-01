@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15"
+   name=""
+   committed-date="2006-01-02T18:23:28.253412Z"
+   url="http://localhost/svn/gotopp/tags/0.30/exemples/bomberniac"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="1"
+   name="intro.baf"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="e9ce949b590483a6eba14e96a4f5fe70"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="ldv.bnp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="d066636687719b3f845cd16a15d2ea5b"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="present.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="c6778e2905cab0110213a7a174bd0763"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="RIDMI.html"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="89101f87edd87ec5b9437c33919b0837"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="15"
+   name="bomberserveur.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-02T18:23:28.253412Z"
+   checksum="5a65310653810bdd996a162e5552c361"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="plan.bnp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="775ca8c8e2487bf46872695ef07379e3"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="15"
+   name="bomberclient.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-02T18:23:28.253412Z"
+   checksum="dc4a3d52564de6d0f0a3c89df804e20b"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tennis.bnp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="214641177d1e4391a8e42f06cd833149"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+</wc-entries>

@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2005-12-07T19:00:25.809674Z"
+   url="http://localhost/svn/gotopp/tags/0.30/boehmgc/include"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="6"
+   name="gc.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="7b0746d605eb22624912517ab97afc18"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_allocator.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="240c625b7cd2744cd7e1f72d68c8afc2"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_amiga_redirects.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="4c84bb6de90f76072b336b30266759d3"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_cpp.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="925ba82d0a6e0d29bc580f4ecc86dee3"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_inl.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="f52491fef440e8ceaaa0f8428c8fc70e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_typed.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="124a9ee194ba655302058d53fbf7053f"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_backptr.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="aab55efd952b275ba1609de52ff80f37"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_alloc.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="3a3e5cb86b6db1fe6ddc2c72b127d44e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_mark.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="2ab58b990328696f3547fd409f2d73c8"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_pthread_redirects.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="67cc7d598bc1a0fd147a70c348a2c5a4"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="leak_detector.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="ac6b413e2634fed719426fe40528704c"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="new_gc_alloc.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="afeedd62385efc5908ee2c9bd119b120"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_gcj.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="779751ee403e83d548709213c0573578"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_local_alloc.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="4e5811ce2cbeed84aa76dd4b04cba258"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_config_macros.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="5d604005dfd56d37a963813b62191858"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="javaxfc.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="0d4a889208f1b491f4aabcb4070b1eb2"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   name="private"
+   kind="dir"/>
+<entry
+   committed-rev="6"
+   name="gc_inline.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="31c32d3776a31b9e5dd0d1a6475447a0"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="ec.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="b1d9c432f2e6709f4eed702f26126ac1"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="cord.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="49d0db4f59bb4874db24c5942ed8c2ee"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="weakpointer.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="9479459c7cba9ce350f48863b51196c0"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+</wc-entries>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2005-12-07T19:00:25.809674Z"
+   url="http://localhost/svn/gotopp/tags/0.30/vs/BomberNIAC"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="6"
+   name="BomberNIAC.vdproj"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="721d45d0f05ba76cb9c25e25430c7434"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+</wc-entries>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="6"
+   name=""
+   committed-date="2005-12-07T19:00:25.809674Z"
+   url="http://localhost/svn/gotopp/tags/0.30/boehmgc/include/private"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="6"
+   name="gc_hdrs.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="8d5174061c55cce476c14c315fb5a302"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_priv.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="cb868cc30ba76508c1233593dfbc1da5"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gcconfig.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="a2e2e8aebc565d305b91de2b3984ee4e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="darwin_stop_world.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="deb33a288bb6bee23ac46c1e0717708e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_pmark.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="d62a5d09d1077fb7f45c5422aa888e0c"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="pthread_stop_world.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="5549846c2f7dcd83f8550fd307f86c25"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="pthread_support.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="1e3d19e243c2fa15b9c73cddbd9d3723"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="gc_locks.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="3ec8e16c7988dc4e91386e9596e199c6"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="specific.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="a60de8578b76b4e565780c5ea9173bfc"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="solaris_threads.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="85597deca0812f2d092cac8c1afd78a6"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="darwin_semaphore.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="14a4a64df372dafcc6121c4d958ed00c"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="dbg_mlc.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="9e4ea67f2263535bd4e937de0afda512"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+<entry
+   committed-rev="6"
+   name="cord_pos.h"
+   text-time="2007-04-09T12:03:58.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="56abb788c2eb93713c1ae682c6ec9516"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:58.000000Z"/>
+</wc-entries>

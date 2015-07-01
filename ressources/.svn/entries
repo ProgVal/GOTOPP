@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2005-11-18T20:15:37.112083Z"
+   url="http://localhost/svn/gotopp/tags/0.30/ressources"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="1"
+   name="gotopp.ico"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="45ecd7fc7da792ac5f022dd9821d5eff"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="banniere.jpg"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="efcf0777453e3c7e75eb6feec6ab08fc"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="RCa03580"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="0a60b01538a8e2c01879c84bfde1fcb3"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="srcgpp.ico"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="6ecf71d1655e9f1dbaa6941e92ffb397"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="gpp.aps"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="97fb9ef3ca936551ee85c4e5fa836f08"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="gpp.rc"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="de908534e1424d40cc58d77e7f4a3628"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="resource.h"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="39d74459691df15ae30d95a09d7b1c3f"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+</wc-entries>

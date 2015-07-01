@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15"
+   name=""
+   committed-date="2006-01-02T18:23:28.253412Z"
+   url="http://localhost/svn/gotopp/tags/0.30/exemples/tests"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="6"
+   name="base.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="587a7d0bc8ff9fbd2f6e92d293ed4f0e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="15"
+   name="exemple.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-02T18:23:28.253412Z"
+   checksum="c83236ea196ebdfdf40d743e95ae3ca6"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+</wc-entries>

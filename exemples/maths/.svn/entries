@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2006-01-01T21:43:27.915424Z"
+   url="http://localhost/svn/gotopp/tags/0.30/exemples/maths"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="8"
+   name="pi3.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="c08dbbabfeb0f9c37a1b580665c20cd5"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="pi.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="bc34fc764067adf18f338ea2ffacde3e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+</wc-entries>

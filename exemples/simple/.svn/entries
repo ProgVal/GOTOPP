@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2006-01-01T21:43:27.915424Z"
+   url="http://localhost/svn/gotopp/tags/0.30/exemples/simple"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="1"
+   name="markov.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="9ca803b7d8771cbe856e155f7232aa19"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="repertoire.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="bff12cf06be8212ebd70855a6c344a9b"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="exemblebib.gpt"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="5f9289e8b7a1bc6a770a58bc38ad597d"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="hello.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="ab6e138c57dcaf8ebfeea7c8821731bf"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="premier.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="5a5c7cb1bd4f84a42f478b9ddea9d6e5"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="gotomultiple.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="745210cf897ebca4b08cd671d5c9708e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="varargs.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="6420b7d343a9f3785896efd81bbc4660"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="tache2.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="0dcd5ec609625fa80786b31dcafa203c"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="entrenom.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="cbef0ba2885f95c3290fe0d6049bcad7"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="fichier.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="f33e79b1f20e399442da4d7b4a75033f"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="texte.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="7baf1b0d7a7697df52add268b2d4fe90"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+</wc-entries>

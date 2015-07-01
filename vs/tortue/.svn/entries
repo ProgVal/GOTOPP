@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13"
+   name=""
+   committed-date="2006-01-01T22:50:27.898193Z"
+   url="http://localhost/svn/gotopp/tags/0.30/vs/tortue"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="13"
+   name="tortue.vcproj"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-01T22:50:27.898193Z"
+   checksum="ee69486e6159be44a63d08a38412a344"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+</wc-entries>

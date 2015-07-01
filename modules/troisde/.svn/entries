@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="1"
+   name=""
+   committed-date="2005-11-18T20:15:37.112083Z"
+   url="http://localhost/svn/gotopp/tags/0.30/modules/troisde"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="1"
+   name="mktest"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="f73b48d76044b943b4903b582a51c98a"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="troisde.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="b40d4a83761400013cc99d6b10316744"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+</wc-entries>

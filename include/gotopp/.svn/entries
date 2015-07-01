@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16"
+   name=""
+   committed-date="2006-01-03T22:54:03.353209Z"
+   url="http://localhost/svn/gotopp/tags/0.30/include/gotopp"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="8"
+   name="pile.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="5b2da7174749d67eec806ec17bcdfeae"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="16"
+   name="programme.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="9d5555396d5758a324d0929dc9482d53"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   name="type"
+   kind="dir"/>
+<entry
+   committed-rev="8"
+   name="gppmodule.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="ffd43a5a33560502c26385b2e32448dd"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wlib.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="158665a0a9a2f8bf399c732e40da445d"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="global.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="e3a9417d063b5edb89f9a1c90174fa7a"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="14"
+   name="appelfonction.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T23:20:30.347096Z"
+   checksum="b62532ebecfd426098375041f5c3258a"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="5"
+   name="mutex.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-03T18:11:35.048398Z"
+   checksum="a710a6cef618ec43ef5bf243078f4b6e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="erreur.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="8122470f2d35b534b43f7256a0f59cdc"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="16"
+   name="machine.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="13071badac498d3ff6d49d7dfc13c24f"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="6"
+   name="tableaux.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="0645620bc4b007f4ee297fe479ee7104"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="7"
+   name="base.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="dde3f1baec194405a7c406f9cb6a1d9b"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="config.h.in"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="846cb7c08cbac8e7620967c35998b73c"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="symbole.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="7dfc93cf76b8dfadf41537e69fda69b2"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="hachage.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="22f6df1dfc143ccc4aa240b26b46074d"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="instruction.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="d1577f1e76cfc1a3542abfe62dae1e0f"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="configwin.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="7"
+   name="compilateur.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="97fd7892d18755127d7da7f63696fb96"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="7"
+   name="version.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="d741391a7e0eb8146b56c0685c6d3a6d"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+</wc-entries>

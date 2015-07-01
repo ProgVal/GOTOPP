@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16"
+   name=""
+   committed-date="2006-01-03T22:54:03.353209Z"
+   url="http://localhost/svn/gotopp/tags/0.30/src/commun"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="6"
+   name="valeur.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="e159e56c6987fed086432dea1869a639"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="7"
+   name="sauveur.h"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="b5a7f883794dc54c25fe58f4d69718e7"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="16"
+   name="global.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="c9997b2506fe722f3a5d5e624dae01af"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="7"
+   name="mutex.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="086e954c904573338da240bb90139fcc"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="4"
+   name="erreur.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-03T18:10:41.334861Z"
+   checksum="0c58aebf174efbd30521be3d7892c4c4"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="4"
+   name="instr.h"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-03T18:10:41.334861Z"
+   checksum="f01ee736328a5184257bfc415c3ed9af"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="6"
+   name="hachval.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="92baa46781e503da4f7e3a89371a404b"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="8"
+   name="tabval.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="6236aa7cb524740582be363af24b195a"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="8"
+   name="symbole.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="7ab7fcf736a448369b8aaa2bd381262a"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="4"
+   name="classe.h"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-03T18:10:41.334861Z"
+   checksum="7b6bf0a471dd470761ea92abd25e357e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="8"
+   name="outils.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="c7e39390d04c5c0133372fc94754b593"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="regmagic.h"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="5f59cf97ff9116ca510e83a0cd955822"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="8"
+   name="chaine.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="5efedb836eb89635c843b5e6e2f44f7d"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="7"
+   name="programme.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="e27165a4ad04b07ec563ff0977ea71fd"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="7"
+   name="sauveur.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="0eeb85116e5f38e7e6ae75b216fd079d"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="7"
+   name="expreg.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="461749226b6a2bea61f763e7f12e515e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="1"
+   name="wlib.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="9253dc5f9da230c3142a2baa51c86f1f"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+</wc-entries>

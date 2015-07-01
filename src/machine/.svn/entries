@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16"
+   name=""
+   committed-date="2006-01-03T22:54:03.353209Z"
+   url="http://localhost/svn/gotopp/tags/0.30/src/machine"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="16"
+   name="machine.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-03T22:54:03.353209Z"
+   checksum="0e4152feaac4d555b51c6e4f43a701ab"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="8"
+   name="interpreteur.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="90e9439759a103ce9fc3c8809175f8ed"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="8"
+   name="modules.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="441c30966f29e36ae9255a6a35bad487"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="7"
+   name="pile.cpp"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="e38ce7e392cff11149da2b95f0a019b5"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+</wc-entries>

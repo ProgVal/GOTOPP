@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15"
+   name=""
+   committed-date="2006-01-02T18:23:28.253412Z"
+   url="http://localhost/svn/gotopp/tags/0.30/exemples/modules"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="15"
+   name="serveur.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-02T18:23:28.253412Z"
+   checksum="e10dea6d1e5aa0c5dd84d6be9892651e"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="15"
+   name="client.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-02T18:23:28.253412Z"
+   checksum="0ad38a74348d13fa72cef0e8777da4c3"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="tortueivre.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="c46a481f349376b2d95989510e7e5a3d"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="1"
+   name="troisde.gpp"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-11-18T20:15:37.112083Z"
+   checksum="e666dbeddd659cf6cb2a04325860a782"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+</wc-entries>

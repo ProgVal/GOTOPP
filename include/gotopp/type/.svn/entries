@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="8"
+   name=""
+   committed-date="2006-01-01T21:43:27.915424Z"
+   url="http://localhost/svn/gotopp/tags/0.30/include/gotopp/type"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="7"
+   name="tabval.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="60f9b85a97fa70a0a804d1b10080a014"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="7"
+   name="expreg.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="b3e6987624439adfe03da02bc0ef1ee6"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="6"
+   name="bebe.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="d53c843643f559060c2d6a41f11bf13d"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="7"
+   name="reference.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="46e1edc320fb2b166897fefdae0e99ab"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="8"
+   name="valeur.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="2c23a9f220691a33efbf705b74be87d0"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="7"
+   name="type.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="f4146dcfcfd955269ddf4b56fce6225b"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="6"
+   name="hachval.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="a0008af4b7f435cd209cd9469e38046b"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="7"
+   name="objetc.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="252dd744c73f3d92ab98839f1644adbc"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+<entry
+   committed-rev="7"
+   name="chaine.h"
+   text-time="2007-04-09T12:03:57.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="5c51b1293864f3d01aed0dd6ffd49e1a"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:57.000000Z"/>
+</wc-entries>

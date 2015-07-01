@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14"
+   name=""
+   committed-date="2006-01-01T23:20:30.347096Z"
+   url="http://localhost/svn/gotopp/tags/0.30/vs/BoehmGC"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   committed-rev="14"
+   name="BoehmGC.vcproj"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-01T23:20:30.347096Z"
+   checksum="404d18eaa6a60954bc13846cd1085aa9"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   committed-rev="6"
+   name="ReadMe.txt"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-07T19:00:25.809674Z"
+   checksum="79f4dd931f515908720d4e2c40d4d25f"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+</wc-entries>

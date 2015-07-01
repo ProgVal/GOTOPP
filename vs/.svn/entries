@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16"
+   name=""
+   committed-date="2006-01-03T22:54:03.353209Z"
+   url="http://localhost/svn/gotopp/tags/0.30/vs"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   name="BomberNIAC"
+   kind="dir"/>
+<entry
+   name="Aide"
+   kind="dir"/>
+<entry
+   name="tortue"
+   kind="dir"/>
+<entry
+   name="BoehmGC"
+   kind="dir"/>
+<entry
+   name="hachetml"
+   kind="dir"/>
+<entry
+   name="ModuleInterp"
+   kind="dir"/>
+<entry
+   name="Interpreteur"
+   kind="dir"/>
+<entry
+   name="troisde"
+   kind="dir"/>
+<entry
+   committed-rev="7"
+   name="Goto++.sln"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2005-12-31T18:11:32.536564Z"
+   checksum="34ee8cf42fd067d6dec6f604df9e5310"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   name="chaussettes"
+   kind="dir"/>
+<entry
+   name="InstGOTO++"
+   kind="dir"/>
+<entry
+   name="GOTO++"
+   kind="dir"/>
+</wc-entries>

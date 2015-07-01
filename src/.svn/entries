@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16"
+   name=""
+   committed-date="2006-01-03T22:54:03.353209Z"
+   url="http://localhost/svn/gotopp/tags/0.30/src"
+   last-author="sidoine"
+   kind="dir"
+   uuid="9acad811-dc05-0410-ab1b-f2ca2dc53e28"
+   repos="http://localhost/svn/gotopp"
+   revision="20"/>
+<entry
+   name="type"
+   kind="dir"/>
+<entry
+   name="compilateur"
+   kind="dir"/>
+<entry
+   name="machine"
+   kind="dir"/>
+<entry
+   committed-rev="8"
+   name="CMakeLists.txt"
+   text-time="2007-04-09T12:03:59.000000Z"
+   committed-date="2006-01-01T21:43:27.915424Z"
+   checksum="d832a79fe56482e833b23025dc052395"
+   last-author="sidoine"
+   kind="file"
+   prop-time="2007-04-09T12:03:59.000000Z"/>
+<entry
+   name="commun"
+   kind="dir"/>
+</wc-entries>
